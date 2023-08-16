@@ -1,2 +1,2 @@
-# DigitalSplitleaf
+# Digital Splitleaf
 Digital Splitleaf data
